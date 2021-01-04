@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>lakshmanimage</finalName>
+    <finalName>lakshmanimagee</finalName>
   </build>
 </project>
