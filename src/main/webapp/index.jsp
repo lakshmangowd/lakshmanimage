@@ -149,7 +149,7 @@
       </div>
     </section>
 
-    <!-- Contact Section -->
+    <!-- Contact Sectionn -->
     <section id="contact">
       <div class="container">
         <h2 class="text-center text-uppercase text-secondary mb-0">Contact Me</h2>
